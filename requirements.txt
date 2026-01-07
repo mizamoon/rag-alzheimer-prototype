@@ -1,0 +1,11 @@
+streamlit
+openai
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+torch
+transformers
+pandas
+requests
